@@ -27,17 +27,16 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barbosaemilio&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosaemilio&layout=compact&theme=catppuccin_latte&count_private=true" alt="Top Langs" width="300" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosaemilio&layout=compact&theme=catppuccin_latte&hide_langs_below=1" alt="Top Langs" width="300" >
 </p>
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dudda-soares&theme=catppuccin_latte" alt="GitHub Streak" width="700">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barbosaemilio&theme=catppuccin_latte" alt="GitHub Streak" width="700">
 </p>
 
 -->
