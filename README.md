@@ -1,13 +1,9 @@
 
-# Olá mundo, eu sou o Emílio! 👋
+Systems Development Technician passionate about technology, currently leveling up from Front-end to Full Stack Java Developer
+🚀 About Me
+I'm a passionate developer focused on building clean and functional web applications. I believe every error is a learning opportunity, and I'm always looking to improve my skills and take on new challenges. 
 
-## 🌟 Sobre mim
-💼 Técnico em desenvolvimento de Sistemas.🔧  
-🎯 Estudando para me tornar **Desenvolvedor Full Stack Java**  
-🌐 Conhecimentos em Front-end: HTML, CSS, JavaScript, Bootstrap e Media Queries e analise de dados. 
-🚀 Apaixonada por aprendizado contínuo e resolução de problemas complexos  
-
-📫 **Contato:**  
+📫 **Let's Connect**  
 - Email: barbosaemiliob@gmail.com  
 - LinkedIn: [emílio-barbosa](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BctwsiSt0RU29D05tbPfYqg%3D%3D)  
 - GitHub: [barbosaemilio](https://github.com/barbosaemilio)  
